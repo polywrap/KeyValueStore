@@ -1,0 +1,7 @@
+format: 0.3.0
+project:
+  name: key-value-store-ts
+  type: plugin/typescript
+source:
+  schema: ./polywrap.graphql
+  module: ./src/index.ts
